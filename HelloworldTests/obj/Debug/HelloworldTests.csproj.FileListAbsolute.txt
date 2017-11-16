@@ -1,0 +1,8 @@
+C:\msbuild\msbuildprojcet\HelloworldTests\bin\Debug\HelloworldTests.dll
+C:\msbuild\msbuildprojcet\HelloworldTests\bin\Debug\HelloworldTests.pdb
+C:\msbuild\msbuildprojcet\HelloworldTests\bin\Debug\Helloworld.dll
+C:\msbuild\msbuildprojcet\HelloworldTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\msbuild\msbuildprojcet\HelloworldTests\bin\Debug\Helloworld.pdb
+C:\msbuild\msbuildprojcet\HelloworldTests\obj\Debug\HelloworldTests.csprojResolveAssemblyReference.cache
+C:\msbuild\msbuildprojcet\HelloworldTests\obj\Debug\HelloworldTests.dll
+C:\msbuild\msbuildprojcet\HelloworldTests\obj\Debug\HelloworldTests.pdb

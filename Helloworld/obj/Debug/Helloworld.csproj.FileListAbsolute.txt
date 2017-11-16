@@ -1,0 +1,5 @@
+C:\msbuild\msbuildprojcet\Helloworld\bin\Debug\Helloworld.dll
+C:\msbuild\msbuildprojcet\Helloworld\bin\Debug\Helloworld.pdb
+C:\msbuild\msbuildprojcet\Helloworld\obj\Debug\Helloworld.csprojResolveAssemblyReference.cache
+C:\msbuild\msbuildprojcet\Helloworld\obj\Debug\Helloworld.dll
+C:\msbuild\msbuildprojcet\Helloworld\obj\Debug\Helloworld.pdb
